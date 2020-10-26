@@ -1,0 +1,3 @@
+[submodule "tools/DeepFaceLab_Linux/DeepFaceLab"]
+	path = tools/DeepFaceLab_Linux/DeepFaceLab
+	url = https://github.com/iperov/DeepFaceLab.git
